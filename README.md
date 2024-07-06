@@ -17,7 +17,7 @@ You will also need the `shape_predictor_68_face_landmarks.dat` file, which conta
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/faceswap.git
+git clone https://github.com/cmuxiao/faceswap.git
 cd faceswap
 ```
 
